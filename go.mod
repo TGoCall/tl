@@ -3,7 +3,7 @@ module github.com/gotd/tl
 go 1.18
 
 require (
-	github.com/sebdah/goldie/v2 v2.7.1
+	github.com/sebdah/goldie/v2 v2.8.0
 	github.com/stretchr/testify v1.11.1
 )
 
